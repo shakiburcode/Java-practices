@@ -10,6 +10,7 @@ public class SwapNumbers {
 
         // Value of first is assigned to temporary
         float temporary = first;
+        
 
         // Value of second is assigned to first
         first = second;
