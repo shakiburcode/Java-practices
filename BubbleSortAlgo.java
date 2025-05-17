@@ -11,6 +11,7 @@ class Main {
   // method to perform bubble sort
   void bubbleSort(int array[]) {
     int size = array.length;
+    
 
     // for ascending or descending sort
     System.out.println("Choose Sorting Order:");
