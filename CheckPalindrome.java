@@ -3,6 +3,7 @@ class Main {
 
     String str = "Radar", reverseStr = "";
     
+    
     int strLength = str.length();
 
     for (int i = (strLength - 1); i >=0; --i) {
