@@ -15,6 +15,7 @@ public class SwapNumbers {
         first = second;
         
 
+        
         // Value of temporary (which contains the initial value of first) is assigned to second
         second = temporary;
 
