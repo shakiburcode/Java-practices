@@ -1,10 +1,7 @@
  public class Main {
 
   public static void main(String[] args) {
-    
 
-
-   
     // year to be checked
     int year = 1900;
     boolean leap = false;
