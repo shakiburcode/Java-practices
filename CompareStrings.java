@@ -5,6 +5,7 @@ public class CompareStrings {
 
         String style = "Bold";
         String style2 = "Bold";
+        
 
         if(style == style2)
             System.out.println("Equal");
