@@ -11,6 +11,7 @@ class Main {
       // get index of mid element
       int mid = low + (high - low) / 2;
 
+      
       // if element to be searched is the mid element
       if (array[mid] == element)
         return mid;
