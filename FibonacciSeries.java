@@ -8,6 +8,7 @@ class Main {
       System.out.print(firstTerm + ", ");
 
       
+      
       // compute the next term
       int nextTerm = firstTerm + secondTerm;
       firstTerm = secondTerm;
