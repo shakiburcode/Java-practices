@@ -12,8 +12,6 @@ class Main {
       int digit = num % 10;
       reversed = reversed * 10 + digit;
       
-
-      
       // remove the last digit from num
       num /= 10;
     }
