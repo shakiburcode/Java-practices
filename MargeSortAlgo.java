@@ -3,7 +3,6 @@ import java.util.Arrays;
 // Merge sort in Java
 
 class Main {
-  
 
   // Merge two sub arrays L and M into array
   void merge(int array[], int p, int q, int r) {
