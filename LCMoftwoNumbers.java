@@ -16,4 +16,5 @@ public class Main {
       return a;
     return findGCD(b, a % b);
   }
+
 }
