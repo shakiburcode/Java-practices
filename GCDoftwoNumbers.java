@@ -9,6 +9,7 @@ class Main {
     int gcd = 1;
 
     
+    
     for (int i = 1; i <= n1 && i <= n2; ++i) {
 
       // check if i perfectly divides both n1 and n2
