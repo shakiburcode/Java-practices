@@ -19,6 +19,7 @@ public class SwapNumbers {
 
         // Value of temporary (which contains the initial value of first) is assigned to second
         second = temporary;
+        
 
         System.out.println("--After swap--");
         System.out.println("First number = " + first);
