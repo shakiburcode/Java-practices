@@ -6,6 +6,7 @@ class Quicksort {
     
     // choose the rightmost element as pivot
     int pivot = array[high];
+
     
     
     // pointer for greater element
