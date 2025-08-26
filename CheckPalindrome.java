@@ -3,9 +3,6 @@ class Main {
 
     String str = "Radar", reverseStr = "";
 
-    
-
-
 
     
     int strLength = str.length();
