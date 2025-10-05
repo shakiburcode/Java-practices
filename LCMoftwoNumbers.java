@@ -9,8 +9,6 @@ public class Main {
 
     System.out.printf("The LCM of %d and %d is %d.", n1, n2, lcm);
   }
-
-  
   
   public static int findGCD(int a, int b) {
     if (b == 0)
