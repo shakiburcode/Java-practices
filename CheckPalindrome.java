@@ -8,7 +8,6 @@ class Main {
     for (int i = (strLength - 1); i >=0; --i) {
       reverseStr = reverseStr + str.charAt(i);
     }
-
     
     if (str.toLowerCase().equals(reverseStr.toLowerCase())) {
       System.out.println(str + " is a Palindrome String.");
