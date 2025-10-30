@@ -1,5 +1,4 @@
 import java.util.Arrays;
-
 // Merge sort in Java
 
 class Main {
