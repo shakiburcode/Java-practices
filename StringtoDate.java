@@ -1,7 +1,6 @@
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
-
 public class TimeString {
 
     public static void main(String[] args) {
