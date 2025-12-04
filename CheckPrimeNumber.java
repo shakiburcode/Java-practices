@@ -9,7 +9,6 @@ public class Main {
     if (num == 0 || num == 1) {
         flag = true;
     }
-    
 
     for (int i = 2; i <= num / 2; ++i) {
 
