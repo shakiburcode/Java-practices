@@ -4,6 +4,7 @@ public class Main {
 
     int num = 29;
     boolean flag = false;
+    
 
     // 0 and 1 are not prime numbers
     if (num == 0 || num == 1) {
